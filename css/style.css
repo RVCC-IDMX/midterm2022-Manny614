@@ -16,7 +16,7 @@ header{
     background-color: beige;
     border: 2px solid;
     text-align: center;
-    font-size: medium;
+    font-size: 30pt;
     padding: 10px;
 }
 #Duel img{
@@ -30,6 +30,9 @@ header{
     text-align: center;
     border: 10px solid;
 }
+#Support{
+    border: 10px solid gray;
+}
 #Support ul li{
     font-size: 20pt;
     font-family: serif;
@@ -39,4 +42,5 @@ header{
 #Reason{
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    font-size: 30px;
+   border: 5px solid greenyellow;
 }
