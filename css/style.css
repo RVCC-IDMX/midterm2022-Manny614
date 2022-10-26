@@ -36,6 +36,7 @@ header{
     color: black;
     text-align: center;
 }
-#reason{
-    font-family: inherit;
+#Reason{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 30px;
 }
